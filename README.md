@@ -20,6 +20,9 @@ console.log(dedash(str)) // 'heycool!'
  * em: '—'
  * horizontal bar: '―'
  * swung: '⁓'
+ * hyphen-minus: '-'
+ * low line: '_'
+ * hypen: '‐' 
 
 [learn more about dashes here](https://en.wikipedia.org/wiki/Dash)
 
