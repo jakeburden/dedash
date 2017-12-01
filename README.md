@@ -15,11 +15,11 @@ console.log(dedash(str)) // 'heycool!'
 
 ## types of dashes removed
 
-  figure: '‒'
-  en: '–'
-  em: '—'
-  horizontal bar: '―'
-  swung: '⁓'
+ * figure: '‒'
+ * en: '–'
+ * em: '—'
+ * horizontal bar: '―'
+ * swung: '⁓'
 
 [learn more about dashes here](https://en.wikipedia.org/wiki/Dash)
 
