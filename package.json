@@ -10,5 +10,19 @@
   "license": "MIT",
   "devDependencies": {
     "tape": "^4.8.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/dedash.git"
+  },
+  "keywords": [
+    "dash",
+    "hyphen",
+    "remove"
+  ],
+  "bugs": {
+    "url": "https://github.com/jekrb/dedash/issues"
+  },
+  "homepage": "https://github.com/jekrb/dedash#readme"
 }
